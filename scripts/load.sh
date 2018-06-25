@@ -1,0 +1,1 @@
+mysql -u root -p"root" -e "CREATE DATABASE test; USE test; SOURCE /storage/dump.sql;"
